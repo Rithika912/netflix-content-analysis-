@@ -20,7 +20,7 @@ and regional distribution insights.
 ### Power BI
 
 
-![Power BI Dashboard](Netflix%20Dashboard%20-%20Power%20Bi.png)
+![Power BI Dashboard](Netflix%20Dashboard%20-PowerBi.png)
 
 
 
